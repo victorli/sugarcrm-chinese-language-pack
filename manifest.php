@@ -20,19 +20,19 @@ $manifest = array(
       ),
 
     // name of the Pack
-    'name' => 'SugarCRM简体中文语言包（Simplified Chinese Language Pack）',
+    'name' => 'SugarCRM Chinese language pack',
 
     // description of new code
-    'description' => 'SugarCRM简体中文语言包（Simplified Chinese Language Pack）6.5.2',
+    'description' => '简体中文语言包',
 
     // author of new code
-    'author' => 'hileon@gmail.com',
+    'author' => 'zs.li@blx90.com',
 
     // date published
-    'published_date' => '2012/07/31',
+    'published_date' => '2016/05/31',
 
     // version of code
-    'version' => '6.5.2',
+    'version' => '6.5.23',
 
     // type of code (valid choices are: full, langpack, module, patch, theme )
     'type' => 'langpack',
